@@ -1,0 +1,15 @@
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\CompositeV3.csproj.AssemblyReference.cache
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\CompositeV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\CompositeV3.AssemblyInfoInputs.cache
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\CompositeV3.AssemblyInfo.cs
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\CompositeV3.csproj.CoreCompileInputs.cache
+C:\Users\Sahib\Desktop\Coding\CompositeV3\bin\Debug\net6.0\CompositeV3.exe
+C:\Users\Sahib\Desktop\Coding\CompositeV3\bin\Debug\net6.0\CompositeV3.deps.json
+C:\Users\Sahib\Desktop\Coding\CompositeV3\bin\Debug\net6.0\CompositeV3.runtimeconfig.json
+C:\Users\Sahib\Desktop\Coding\CompositeV3\bin\Debug\net6.0\CompositeV3.dll
+C:\Users\Sahib\Desktop\Coding\CompositeV3\bin\Debug\net6.0\CompositeV3.pdb
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\CompositeV3.dll
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\refint\CompositeV3.dll
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\CompositeV3.pdb
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\CompositeV3.genruntimeconfig.cache
+C:\Users\Sahib\Desktop\Coding\CompositeV3\obj\Debug\net6.0\ref\CompositeV3.dll

@@ -1,0 +1,15 @@
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\AdapterV2.csproj.AssemblyReference.cache
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\AdapterV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\AdapterV2.AssemblyInfoInputs.cache
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\AdapterV2.AssemblyInfo.cs
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\AdapterV2.csproj.CoreCompileInputs.cache
+C:\Users\Sahib\Desktop\Coding\AdapterV2\bin\Debug\net6.0\AdapterV2.exe
+C:\Users\Sahib\Desktop\Coding\AdapterV2\bin\Debug\net6.0\AdapterV2.deps.json
+C:\Users\Sahib\Desktop\Coding\AdapterV2\bin\Debug\net6.0\AdapterV2.runtimeconfig.json
+C:\Users\Sahib\Desktop\Coding\AdapterV2\bin\Debug\net6.0\AdapterV2.dll
+C:\Users\Sahib\Desktop\Coding\AdapterV2\bin\Debug\net6.0\AdapterV2.pdb
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\AdapterV2.dll
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\refint\AdapterV2.dll
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\AdapterV2.pdb
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\AdapterV2.genruntimeconfig.cache
+C:\Users\Sahib\Desktop\Coding\AdapterV2\obj\Debug\net6.0\ref\AdapterV2.dll

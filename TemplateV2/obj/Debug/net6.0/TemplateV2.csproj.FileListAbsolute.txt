@@ -1,0 +1,15 @@
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\TemplateV2.csproj.AssemblyReference.cache
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\TemplateV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\TemplateV2.AssemblyInfoInputs.cache
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\TemplateV2.AssemblyInfo.cs
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\TemplateV2.csproj.CoreCompileInputs.cache
+C:\Users\Sahib\Desktop\Coding\TemplateV2\bin\Debug\net6.0\TemplateV2.exe
+C:\Users\Sahib\Desktop\Coding\TemplateV2\bin\Debug\net6.0\TemplateV2.deps.json
+C:\Users\Sahib\Desktop\Coding\TemplateV2\bin\Debug\net6.0\TemplateV2.runtimeconfig.json
+C:\Users\Sahib\Desktop\Coding\TemplateV2\bin\Debug\net6.0\TemplateV2.dll
+C:\Users\Sahib\Desktop\Coding\TemplateV2\bin\Debug\net6.0\TemplateV2.pdb
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\TemplateV2.dll
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\refint\TemplateV2.dll
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\TemplateV2.pdb
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\TemplateV2.genruntimeconfig.cache
+C:\Users\Sahib\Desktop\Coding\TemplateV2\obj\Debug\net6.0\ref\TemplateV2.dll

@@ -1,0 +1,15 @@
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\FactoryV2.csproj.AssemblyReference.cache
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\FactoryV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\FactoryV2.AssemblyInfoInputs.cache
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\FactoryV2.AssemblyInfo.cs
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\FactoryV2.csproj.CoreCompileInputs.cache
+C:\Users\Sahib\Desktop\Coding\FactoryV2\bin\Debug\net6.0\FactoryV2.exe
+C:\Users\Sahib\Desktop\Coding\FactoryV2\bin\Debug\net6.0\FactoryV2.deps.json
+C:\Users\Sahib\Desktop\Coding\FactoryV2\bin\Debug\net6.0\FactoryV2.runtimeconfig.json
+C:\Users\Sahib\Desktop\Coding\FactoryV2\bin\Debug\net6.0\FactoryV2.dll
+C:\Users\Sahib\Desktop\Coding\FactoryV2\bin\Debug\net6.0\FactoryV2.pdb
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\FactoryV2.dll
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\refint\FactoryV2.dll
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\FactoryV2.pdb
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\FactoryV2.genruntimeconfig.cache
+C:\Users\Sahib\Desktop\Coding\FactoryV2\obj\Debug\net6.0\ref\FactoryV2.dll

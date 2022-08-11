@@ -1,0 +1,15 @@
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\BridgeV3.csproj.AssemblyReference.cache
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\BridgeV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\BridgeV3.AssemblyInfoInputs.cache
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\BridgeV3.AssemblyInfo.cs
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\BridgeV3.csproj.CoreCompileInputs.cache
+C:\Users\Sahib\Desktop\Coding\BridgeV3\bin\Debug\net6.0\BridgeV3.exe
+C:\Users\Sahib\Desktop\Coding\BridgeV3\bin\Debug\net6.0\BridgeV3.deps.json
+C:\Users\Sahib\Desktop\Coding\BridgeV3\bin\Debug\net6.0\BridgeV3.runtimeconfig.json
+C:\Users\Sahib\Desktop\Coding\BridgeV3\bin\Debug\net6.0\BridgeV3.dll
+C:\Users\Sahib\Desktop\Coding\BridgeV3\bin\Debug\net6.0\BridgeV3.pdb
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\BridgeV3.dll
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\refint\BridgeV3.dll
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\BridgeV3.pdb
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\BridgeV3.genruntimeconfig.cache
+C:\Users\Sahib\Desktop\Coding\BridgeV3\obj\Debug\net6.0\ref\BridgeV3.dll

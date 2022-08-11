@@ -1,0 +1,15 @@
+C:\Users\Sahib\Desktop\Coding\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\Sahib\Desktop\Coding\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\Sahib\Desktop\Coding\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\Sahib\Desktop\Coding\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\Sahib\Desktop\Coding\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Users\Sahib\Desktop\Coding\Adapter\obj\Debug\net6.0\ref\Adapter.dll

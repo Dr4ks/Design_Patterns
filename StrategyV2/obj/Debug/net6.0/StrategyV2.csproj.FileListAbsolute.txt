@@ -1,0 +1,15 @@
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\StrategyV2.csproj.AssemblyReference.cache
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\StrategyV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\StrategyV2.AssemblyInfoInputs.cache
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\StrategyV2.AssemblyInfo.cs
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\StrategyV2.csproj.CoreCompileInputs.cache
+C:\Users\Sahib\Desktop\Coding\StrategyV2\bin\Debug\net6.0\StrategyV2.exe
+C:\Users\Sahib\Desktop\Coding\StrategyV2\bin\Debug\net6.0\StrategyV2.deps.json
+C:\Users\Sahib\Desktop\Coding\StrategyV2\bin\Debug\net6.0\StrategyV2.runtimeconfig.json
+C:\Users\Sahib\Desktop\Coding\StrategyV2\bin\Debug\net6.0\StrategyV2.dll
+C:\Users\Sahib\Desktop\Coding\StrategyV2\bin\Debug\net6.0\StrategyV2.pdb
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\StrategyV2.dll
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\refint\StrategyV2.dll
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\StrategyV2.pdb
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\StrategyV2.genruntimeconfig.cache
+C:\Users\Sahib\Desktop\Coding\StrategyV2\obj\Debug\net6.0\ref\StrategyV2.dll
